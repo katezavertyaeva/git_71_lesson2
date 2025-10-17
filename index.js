@@ -1,1 +1,1 @@
-console.log("Conflicts 34");
+console.log("Conflicts");
